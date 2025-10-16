@@ -1,6 +1,6 @@
 ## ⌗ ShadowX Copyright License
 **© 2025 ShadowX. All Rights Reserved.**  
-Operated and maintained by **shi.ded** and the **Team Ded** development group.  
+Operated and maintained by **shi.ded** and the **Team Ded**.  
 
 ---
 
@@ -40,4 +40,4 @@ Any unauthorized use or imitation will result in immediate action, including but
 ### ⌗ Licensing & Permissions
 Use or adaptation of any materials, designs, or software originating from **ShadowX** requires prior **written authorization** from **shi.ded** or an officially recognized representative of **Team Ded**.
 
-https://discord.gg/shadow-x
+https://discord.gg/shadowx
